@@ -1,0 +1,2 @@
+# Passing substring  as function parametors in template literals
+ Since these functions receive the parts of a Template String as arguments, you can  then decide how to use the strings and substitutions to determine the final output of your  string. For instance, you can use the output function to convert all the characters into  uppercase, converge the input into a hash-string, or anything you may want.
